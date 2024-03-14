@@ -4,8 +4,7 @@
 딥보이스 체험장 웹사이트 백엔드 제작
 
 ## 기술 스택
-<img src="https://github.com/yuri0329/Deepvoice_ExperienceCenter/assets/104057240/efbd00d8-f6f6-43c2-8a50-d680214acf4f.png" width="200" height="200"/>
-
+<img src="https://github.com/yuri0329/Deepvoice_ExperienceCenter/assets/104057240/aeb61790-1584-4b4e-9628-9c118d9ee557.png" width="200" height="400"/>
 ## Getting Started (Installation)
 ````
 pip install "fastapi[all]"
