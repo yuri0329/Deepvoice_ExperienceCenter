@@ -1,0 +1,12 @@
+[user]
+	name = yuri0329
+	email = yuri0329@khu.ac.kr
+[difftool "sourcetree"]
+	cmd = "'' "
+[mergetool "sourcetree"]
+	cmd = "'' "
+	trustExitCode = true
+[push]
+	default = upstream
+[credential]
+	helper = "!f() { /root/.vscode-server/bin/019f4d1419fbc8219a181fab7892ebccf7ee29a2/node /tmp/vscode-remote-containers-276ceb88-60bc-4a8d-be77-142db9e5a950.js git-credential-helper $*; }; f"
